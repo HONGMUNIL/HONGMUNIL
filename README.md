@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌐 문일 / HONGMUNIL
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+wanna+go+to+sleep...;Counting+sheep...;Goodnight!;💤💤💤&font=Fira+Code&center=true&vCenter=true&width=600&height=70&pause=1000&color=F70000&background=000000FF&size=28)](https://github.com/your-username)
 
-<!--
-**HONGMUNIL/HONGMUNIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📧 **Email**: [bear4564@naver.com](mailto:bear4564@naver.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+### Languages
+- **Java** (Core, JDK 11+)
+- **HTML, CSS, JavaScript** (Frontend Integration)
+
+### Frameworks & Libraries
+- **Spring Boot**
+- **Hibernate/JPA**
+- **Thymeleaf/JSP**
+
+### Tools
+- **Maven/Gradle**
+- **Git/GitHub**
+
+---
+
+
