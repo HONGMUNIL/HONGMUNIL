@@ -1,6 +1,4 @@
 # 🌐 문일 / HONGMUNIL
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=i+like+home...;Also+I+like+sleep...;Goodnight!;💤💤💤&font=Fira+Code&center=true&vCenter=true&width=600&height=70&pause=1000&color=F70000&background=000000FF&size=28)](https://github.com/your-username)
-
 
 📧 **Email**: [bear4564@naver.com](mailto:bear4564@naver.com)
 
